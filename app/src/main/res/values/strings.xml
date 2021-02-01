@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Show</string>
+    <string name="search_hint">type to search movie</string>
+    <string name="search_error">Error while loading movies</string>
+    <string name="error_episode">Error loading episodes</string>
+    <string name="search_warning">Type before search</string>
+    <string name="no_definition">No Definition</string>
+</resources>
