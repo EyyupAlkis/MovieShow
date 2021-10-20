@@ -1,2 +1,2 @@
 # MovieShow
- Example of MVI + MVVM + Use Case + Rxjava and Retrofit
+ Example of MVI + Use Case + Rxjava and Retrofit
